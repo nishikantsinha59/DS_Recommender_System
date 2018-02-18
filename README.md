@@ -1,6 +1,7 @@
 # Data Science Recommender System
-A recommender System aimed to recommend topics belonging to a particular course
 Nishikant Sinha - February 2018
+
+A recommender System aimed to recommend topics belonging to a particular course
 
 The recommender system uses the concept of Network analysis with igraph package.
 
