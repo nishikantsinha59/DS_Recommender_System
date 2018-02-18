@@ -12,6 +12,7 @@ This repository contains code for two diffrent recommender System aimed to recom
 If you notice any bugs or typos, or have any suggestions on making the tutorial easier to follow, please send me a direct message through any of ...
 
 Email : nishikantsinha59@gmail.com
+
 Kaggle: https://www.kaggle.com/nishikantsinha59
 
 Kind regards,
