@@ -1,9 +1,7 @@
 # Data Science Recommender System
 Nishikant Sinha - February 2018
 
-A recommender System aimed to recommend topics belonging to a particular course
-
-The recommender system uses the concept of Network analysis with igraph package.
+This recommender System is aimed to recommend topics belonging to a particular course. The recommender system uses the concept of Network analysis with igraph package.
 
 This repository contains code for two diffrent recommender System aimed to recommend topics belonging to a particular course. Their core functionality is same but they only differ in the way they take inputs. One takes input as regular console while other requires input in JSON array or object.
 
